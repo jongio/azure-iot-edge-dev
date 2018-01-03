@@ -14,7 +14,7 @@ A collection of resources for Azure IoT Edge development.
 - [Working with IoT Edge in F#](https://compositional-it.com/blog/2017/12-27-iot-edge-and-fsharp/)
 
 ## Dev Tools
-- [Azure IoT Edge Dev Tool](https://github.com/jonbgallant/azure-iot-edge-dev-tool) - The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day Edge development.
+- [Azure IoT Edge Dev Tool](https://github.com/jonbgallant/azure-iot-edge-dev-tool) - The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day IoT Edge development.
 - [Azure IoT Edge VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge)
 - [Easily Create IoT Edge custom modules with Visual Studio Code](https://blogs.msdn.microsoft.com/visualstudio/2017/12/12/easily-create-iot-edge-custom-modules-with-visual-studio-code/)
 - [Azure IoT Edge Module Twin Update VSTS Task](https://marketplace.visualstudio.com/items?itemName=DanielMeixner.IotHubModuleTwinUpdate) - Use this task to trigger an update the module config of your IoT Edge devices.
