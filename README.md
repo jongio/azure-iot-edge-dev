@@ -27,6 +27,7 @@ A collection of resources for Azure IoT Edge development.
 ## Modules
 - [UDP](https://github.com/danigian/iot-edge-udp) - Build Azure IoT Edge solutions with UDP connectivity. Creates an UDP endpoint and routes messages to the EdgeHub.
 - [OPC-UA Client](https://github.com/dariuszparys/edgev2-opc-client) - Template for creating OPC-UA client modules.
+- [Monitoring Module](https://github.com/dariuszparys/edgev2-monitor-module) - If you integrate this module in your EdgeHub deployment you can basically monitor all traffic between modules
 
 ## Other
 - [Azure IoT REST](https://github.com/jonbgallant/azure-iot-rest) - Help with the Azure IoT REST APIs
